@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+	<h1>Hey There!</h1>
+	<p>This is our interactive code editor</p>
+	<p>don't worry, you won't break it. Go ahead...try it out</p>
+	<p>click some tabs already!</p>
+</body>
+</html>
